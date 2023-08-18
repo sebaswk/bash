@@ -14,7 +14,8 @@ This repository has bash files with simple everyday installations.
 | # Maven |  |  |
 | mavenInstall.tf | Install apache maven | 3.2.5 |
 | mavenInstall.tf | Install java | 17.0.8 |
-| # EKS Cli |  | Latest |
+| # Kubernetes |  |  |
+| kubectlInstall.tf | Install kubectl | Latest |
 | eksctlInstall.tf | Install eks cli | Latest |
 
 
