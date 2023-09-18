@@ -15,11 +15,12 @@ This repository has bash files with simple everyday installations.
 | *Postgres SQL* |  | 15 |
 | [PostgreSQL](postgresInstall.sh) | Install postgreSQL | 15 |
 | *Maven* |  |  |
-| [Maven](mavenInstall.tf) | Install apache maven | 3.2.5 |
-| [Java](mavenInstall.tf) | Install java | 17.0.8 |
+| [Maven](mavenInstall.sh) | Install apache maven | 3.2.5 |
+| [Java](mavenInstall.sh) | Install java | 17.0.8 |
 | *Kubernetes* |  |  |
-| [Kubectl](kubectlInstall.tf) | Install kubectl | Latest |
-| [Eksctl](eksctlInstall.tf) | Install eks cli | Latest |
+| [Kubectl](kubectlInstall.sh) | Install kubectl | Latest |
+| [Eksctl](eksctlInstall.sh) | Install eks cli | Latest |
+| [Clear Namespace](clearNamespace.sh) | Clear any namespace |  |
 
 
 ## About me
