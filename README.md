@@ -1,5 +1,5 @@
 # BASH REPOSITORY
-This repository has bash files with simple everyday installations.
+This repository has bash files with simple everyday installations and tools.
 
 
 ## File guide
