@@ -12,7 +12,7 @@ This repository has bash files with simple everyday installations and tools.
 | [Docker](dockerInstall.sh) | Install docker in its latest version | Latest |
 | [Docker-compose](docker-composeInstall.sh) | Install docker-compose in its latest version | Latest |
 | [Docker and Compose](dockerandcomposeInstall.sh) | Install docker and docker-compose in its latest version | Latest |
-| [Move dockers](moveDockers.sh) | Move docker images from one server to another | Latest |
+| [Move dockers](moveDockers.sh) | Move docker images from one server to another | |
 | *Postgres SQL* |  | 15 |
 | [PostgreSQL](postgresInstall.sh) | Install postgreSQL | 15 |
 | *Maven* |  |  |
