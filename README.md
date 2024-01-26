@@ -22,6 +22,8 @@ This repository has bash files with simple everyday installations and tools.
 | [Kubectl](kubectlInstall.sh) | Install kubectl | Latest |
 | [Eksctl](eksctlInstall.sh) | Install eks cli | Latest |
 | [Clear Namespace](clearNamespace.sh) | Clear any namespace |  |
+| [Prometheus and Grafana] | Deploy prometheus and grafana for cluster monitoring |  |
+| [Loki, FluentBit and Grafana] | Deploy loki, fluentbit and grafana for log view |  |
 
 
 ## About me
